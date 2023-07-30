@@ -1,0 +1,123 @@
+
+ you :hello 
+ jarvis:Hello! How are you today?
+ you :what is 
+ jarvis:I'm sorry, I don't understand.
+ you :what is ai 
+ jarvis:Artificial intelligence is the simulation of human intelligence by machines.
+ you :what is machine learning 
+ jarvis:Machine learning is a method of teaching computers to learn from data, without being explicitly programmed.
+ you :what is be planning 
+ jarvis:I'm sorry, I don't understand.
+ you :what is deep learning 
+ jarvis:Deep learning is a subset of machine learning that is concerned with algorithms inspired by the structure and function of the brain called artificial neural networks.
+ you : 
+ jarvis:Deep learning is a subset of machine learning that is concerned with algorithms inspired by the structure and function of the brain called artificial neural networks.
+ you :what is current date 
+ jarvis:The current date is October 10, 2018.
+ you :october 
+ jarvis:The current date is October 10, 2018.
+ you : 
+ jarvis:Is there anything else you would like to know?
+ you :what is python 
+ jarvis:Python is a programming language with many features, such as an intuitive syntax and powerful data structures.
+ you : 
+ jarvis:Python is a programming language with many features, such as an intuitive syntax and powerful data structures.
+ you :what is deep learning 
+ jarvis:Deep learning is a subset of machine learning that is concerned with algorithms inspired by the structure and function of the brain called artificial neural networks.
+ you : 
+ jarvis:Is there anything else you would like to know?
+ you : 
+ jarvis:Is there anything else you would like to know?
+ you :no 
+ jarvis:Okay, have a good day!
+ you : 
+ jarvis:Is there anything else you would like to know?
+ you : 
+ jarvis:Is there anything else you would like to know?
+ you : 
+ jarvis:Is there anything else you would like to know?
+ you : 
+ jarvis:Is there anything else you would like to know?
+ you :top 
+ jarvis:I'm sorry, I don't understand.
+ you : 
+ jarvis:Is there anything else you would like to know?
+ you : 
+ jarvis:Is there anything else you would like to know?
+ you : 
+ jarvis:Is there anything else you would like to know?
+ you :what is data visualisation 
+ jarvis:Data visualization is the process of representing data in a graphical format.
+ you :water 7 steps in data vishleshan 
+ jarvis:I'm sorry, I don't understand.
+ you :what are seven steps in data visualisation 
+ jarvis:There is no one-size-fits-all answer to this question, as the steps involved in data visualization will vary depending on the type of data being visualized and the goals of the visualization. However, some common steps in data visualization include data cleaning, exploratory data analysis, and creating visual
+ you : 
+ jarvis:Is there anything else you would like to know?
+ you :no 
+ jarvis:Okay, have a good day!
+ you : 
+ jarvis:Is there anything else you would like to know?
+ you : 
+ jarvis:Is there anything else you would like to know?
+ you : 
+ jarvis:Is there anything else you would like to know?
+ you : 
+ jarvis:Is there anything else you would like to know?
+ you : 
+ jarvis:Is there anything else you would like to know?
+ you :about ml 
+ jarvis:Machine learning is a method of teaching computers to learn from data, without being explicitly programmed.
+ you :ABOUT ML 
+ jarvis:Machine learning is a method of teaching computers to learn from data, without being explicitly programmed.
+ you :hello 
+ jarvis:Hello! How are you today?
+ you : 
+ jarvis:Hello! How are you today?
+ you :hello 
+ jarvis:Hello! How are you today?
+ you :fine what is time 
+ jarvis:The current time is 4:37pm.
+ you : 
+ jarvis:The current time is 4:37pm.
+ you : 
+ jarvis:Is there anything else you would like to know?
+ you :what is machine learning 
+ jarvis:Machine learning is a method of teaching computers to learn from data, without being explicitly programmed.
+ you :what is deep learning 
+ jarvis:Deep learning is a subset of machine learning that is concerned with algorithms inspired by the structure and function of the brain called artificial neural networks.
+ you :what is machine learning 
+ jarvis:Machine learning is a method of teaching computers to learn from data, without being explicitly programmed.
+ you : 
+ jarvis:Is there anything else you would like to know?
+ you : 
+ jarvis:Is there anything else you would like to know?
+ you : 
+ jarvis:Is there anything else you would like to know?
+ you :who is the president of india who is the president of india 
+ jarvis:The current president of India is Ram Nath Kovind.
+ you :what is yesterday ipl score 
+ jarvis:I'm sorry, I don't understand.
+ you : 
+ jarvis:Is there anything else you would like to know?
+ you :hello 
+ jarvis:Hello! How are you today?
+ you :what is mean by machine learning 
+ jarvis:Machine learning is a method of teaching computers to learn from data, without being explicitly programmed.
+ you :what is probability 
+ jarvis:Probability is the likelihood or chance of an event occurring.
+ you :who is the president of india 
+ jarvis:The current president of India is Ram Nath Kovind.
+ you : 
+ jarvis:Is there anything else you would like to know?
+ you : 
+ jarvis:Is there anything else you would like to know?
+ you : 
+ jarvis:Is there anything else you would like to know?
+ you :hello 
+ jarvis:Hello! How are you today?
+ you :what is the mel 
+ jarvis:I'm sorry, I don't understand.
+ you :what is ml 
+ jarvis:Machine learning is a method of teaching computers to learn from data, without being explicitly programmed.
